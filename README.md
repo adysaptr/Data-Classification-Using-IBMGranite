@@ -23,7 +23,7 @@
 ## 🛠️ Prerequisites
 - Google account (for Google Colab)
 - API access to the IBM Granite model
-- Stable internet connection (to download the model from Hugging Face)
+- Stable internet connection
 
 ---
 
