@@ -6,7 +6,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Features](#-key-features)
-- [HowtoUse](#-how-to-use)
+- [How to Use](#-howtouse)
 - [Prerequisites](#-prerequisites)
 - [Dataset](#-dataset)
 
