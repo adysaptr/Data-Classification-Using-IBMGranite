@@ -7,7 +7,7 @@
 - [Description](#description)
 - [Features](#-key-features)
 - [How to Use](#%EF%B8%8F-how-to-use)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](##%EF%B8%8F-prerequisites)
 - [Dataset](#-dataset)
 
 ## Description
